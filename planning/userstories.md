@@ -1,0 +1,31 @@
+Som individe 
+vill jag lätt kunna ta antäckningar
+för att annars kan jag glöma det.
+
+Som student
+vill jag snabbt kunna ta antäckningar under lektion
+för att komma ihåg vad vi lärt oss.
+
+Som student
+vill jag snabbt kunna ta antäckningar under lektion
+för att kunna träna på senare.
+
+Som student
+vill jag kunna organisera mina anteckningar
+för att lätt hitta vad jag letar efter.
+
+Som individe
+vill jag att antänkningar ska var lätt tillgängliga
+för att för dom lätta att använda.
+
+Som individe
+vill jag ha appen tillgänglig på mobilen
+för att för den ber lätt tillgänglig.
+
+Som individe
+vill jag ha mina anteckningar strukturerade 
+för att lätt kunna så ner lätt förståd information
+
+Som student
+vill jag kunna ta längre anteckningar
+för att kunna anteckna under lektioner.
