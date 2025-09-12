@@ -1,0 +1,70 @@
+body{
+    background-color: #884510;
+}
+:root {
+  --primary-color: #007AFF;
+  --text-color: #1D1D1F;
+  --background: #F2F2F7;
+  --card-background: #FFFFFF;
+}
+
+.note-card {
+  background: var(--card-background);
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+#main-container{
+  margin: 0 auto;
+  width: 560px;
+  background-color: #d99247;
+  border-radius: 5px;
+}
+
+#interface{
+  display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  background-color: #de9e45;
+  width: 530px;
+  height: 60px;
+  border-radius: 5px;
+  border: #c86a3d solid 2px;
+  margin: 10px auto;
+  
+}
+
+#add-note-btn{
+  position: relative;
+  height: 42px;
+  left: 10px;
+}
+
+#remove-note-btn{
+  position: relative;
+  height: 42px;
+  left: 20px;
+}
+
+#sök-box{
+  position: relative;
+  height: 35px;
+  width: 110px;
+  left: 180px;
+}
+#filter{
+  position: relative;
+  height: 42px;
+  width: 90px;
+  left: 190px;
+}
+
+#notes-container{
+    background-color:#d2a53c ;
+    margin: 10px auto;
+    width: 530px;
+    height: 600px;
+    border-radius: 5px;
+    border: #c86a3d solid 2px;
+}
